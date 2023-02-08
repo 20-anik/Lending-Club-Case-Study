@@ -11,8 +11,7 @@
 ## General Information
 - Provide general information about your project here.
 
-    ```The case study is done to give insights to an investor and help the investor determine whether to give the loan applicant the loan or not.
-    ```
+    ```The case study is done to give insights to an investor and help the investor determine whether to give the loan applicant the loan or not.```
 - What is the background of your project?
 
     `EDA`
