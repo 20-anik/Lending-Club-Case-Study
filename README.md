@@ -29,10 +29,10 @@
 - Chances of defaulting increases when the loan repayment term is 60 months.
 - Chances of deafulting are much higher for grades B and C followed by D compared to other grades. Also, chances of Fully paiying is comparatively higher for grades B and A whose corresponding default percentage is lower. Therefore Grade A followed by B has lower chance of defaulting.
 - Ratio of Appllicants fully paying to defaulting is much higher at sub grades A4, A5, A3, B1, A2. Therefore this five sub grades has lower risk of defaulting.
-- _Chances of defaulting is comparatively the same as chances of paying fully based on employment length, except applicant with 10+ and 7 years of employment length where the risks of defaulting is slightly higher.
+- Chances of defaulting is comparatively the same as chances of paying fully based on employment length, except applicant with 10+ and 7 years of employment length where the risks of defaulting is slightly higher.
 - Chances of defaulting is slightly higher for applicants who have home as rented.
 - Applicants with anual income of 100000 and higher is likely to pay the loan amount whereas applicants with anual income of 50000 and lesser is likely to default. Applicants with a annual income ranging from 50000 - 75000 has 50-50 chances of paying and defaulting.
-- _Applicants with verification status as not verified are likely to pay the loan amount, wheareas applicants with a verfication status of verified are likely to default. Applicants with verification status as Source Verified has 50-50 chances to pay or default.
+- Applicants with verification status as not verified are likely to pay the loan amount, wheareas applicants with a verfication status of verified are likely to default. Applicants with verification status as Source Verified has 50-50 chances to pay or default.
 
 ## Technologies Used
 - python - version 3.9.12
