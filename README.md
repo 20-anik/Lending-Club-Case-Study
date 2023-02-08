@@ -8,12 +8,10 @@
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
 
-<!-- You can include any other section that is pertinent to your problem -->
-
 ## General Information
 - Provide general information about your project here.
 
-    ```
+    ```The case study is done to give insights to an investor and help the investor determine whether to give the loan applicant the loan or not.
     ```
 - What is the background of your project?
 
@@ -25,16 +23,17 @@
 
     `loan.csv`
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
+- If the applied loan amount is high there's a slight chance that the person will default.
+- Chances of defaulting slightly increases when funded amount is less than applied loan amount.
+- A lower rate of interest is likely to be fully paid than charged off.
+- Chances of defaulting increases when the loan repayment term is 60 months.
+- Chances of deafulting are much higher for grades B and C followed by D compared to other grades. Also, chances of Fully paiying is comparatively higher for grades B and A whose corresponding default percentage is lower. Therefore Grade A followed by B has lower chance of defaulting.
+- Ratio of Appllicants fully paying to defaulting is much higher at sub grades A4, A5, A3, B1, A2. Therefore this five sub grades has lower risk of defaulting.
+- _Chances of defaulting is comparatively the same as chances of paying fully based on employment length, except applicant with 10+ and 7 years of employment length where the risks of defaulting is slightly higher.
+- Chances of defaulting is slightly higher for applicants who have home as rented.
+- Applicants with anual income of 100000 and higher is likely to pay the loan amount whereas applicants with anual income of 50000 and lesser is likely to default. Applicants with a annual income ranging from 50000 - 75000 has 50-50 chances of paying and defaulting.
+- _Applicants with verification status as not verified are likely to pay the loan amount, wheareas applicants with a verfication status of verified are likely to default. Applicants with verification status as Source Verified has 50-50 chances to pay or default.
 
 ## Technologies Used
 - python - version 3.9.12
@@ -43,8 +42,6 @@
 - matplotlib - version 3.6.3
 - seaborn - version 0.12.0
 - plotly - version 5.13.
-
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
 Give credit here.
